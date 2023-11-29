@@ -1,0 +1,1 @@
+Pure component is faster than the simple component because it avoids unnecessary re renders
